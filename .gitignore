@@ -1,0 +1,5 @@
+random_seed
+.gitsecret/keys/random_seed
+!*.secret
+root/etc/dropbear/authorized_keys
+root/etc/dropbear/dropbear_rsa_host_key
